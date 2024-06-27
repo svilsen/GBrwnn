@@ -1,4 +1,5 @@
-
-function rwnn() 
+##
+function rwnn(X, y, H) 
 
 end
+
